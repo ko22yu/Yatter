@@ -3,4 +3,5 @@
     <string name="public_timeline_avatar_content_description">アバター画像</string>
     <string name="title_activity_public_timeline">PublicTimelineActivity</string>
     <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_post">PostActivity</string>
 </resources>
