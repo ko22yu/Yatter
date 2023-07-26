@@ -1,5 +1,6 @@
 package com.dmm.bootcamp.yatter2023.infra.api.json
 
+import AccountJson
 import com.squareup.moshi.Json
 
 data class StatusJson(

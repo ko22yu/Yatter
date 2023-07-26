@@ -7,7 +7,6 @@ import com.dmm.bootcamp.yatter2023.domain.model.Username
 import com.dmm.bootcamp.yatter2023.domain.repository.AccountRepository
 import com.dmm.bootcamp.yatter2023.infra.api.YatterApi
 import com.dmm.bootcamp.yatter2023.infra.api.json.CreateAccountJson
-import com.dmm.bootcamp.yatter2023.infra.domain.converter.AccountConverter
 import com.dmm.bootcamp.yatter2023.infra.domain.converter.MeConverter
 import com.dmm.bootcamp.yatter2023.infra.pref.MePreferences
 import kotlinx.coroutines.Dispatchers

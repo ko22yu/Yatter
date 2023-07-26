@@ -1,6 +1,6 @@
 package com.dmm.bootcamp.yatter2023.infra.api
 
-import com.dmm.bootcamp.yatter2023.infra.api.json.AccountJson
+import AccountJson
 import com.dmm.bootcamp.yatter2023.infra.api.json.CreateAccountJson
 import com.dmm.bootcamp.yatter2023.infra.api.json.FollowAccountJson
 import com.dmm.bootcamp.yatter2023.infra.api.json.PostStatusJson
